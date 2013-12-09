@@ -53,7 +53,7 @@
 #
 # $HeadURL: https://svn.apache.org/repos/asf/subversion/branches/1.8.x/contrib/hook-scripts/svn-keyword-check.pl $
 # $LastChangedRevision: 1485487 $
-# $LastChangedDate: 2013-05-22 19:10:27 -0400 (Wed, 22 May 2013) $
+# $LastChangedDate: 2013-05-22 18:10:27 -0500 (Wed, 22 May 2013) $
 # $LastChangedBy: danielsh $
 
 BEGIN {

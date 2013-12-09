@@ -3,7 +3,7 @@ Feature Outline: Issue #2858 / svn:hold
 
 This text describes plans and concerns about creating an svn:hold property that 
 automatically omits paths from commits that have this property set. WIP.
-$Date: 2011-08-24 19:36:33 -0400 (Wed, 24 Aug 2011) $
+$Date: 2011-08-24 18:36:33 -0500 (Wed, 24 Aug 2011) $
 
 This whole file is just my personal opinion, with some additions by other
 people. The whole feature is under heavy discussion at the time of writing,

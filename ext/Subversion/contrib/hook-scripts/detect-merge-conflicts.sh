@@ -6,7 +6,7 @@
 # error message.
 #
 # $HeadURL: https://svn.apache.org/repos/asf/subversion/branches/1.8.x/contrib/hook-scripts/detect-merge-conflicts.sh $
-# $LastChangedDate: 2013-04-10 22:38:26 -0400 (Wed, 10 Apr 2013) $
+# $LastChangedDate: 2013-04-10 21:38:26 -0500 (Wed, 10 Apr 2013) $
 # $LastChangedBy: julianfoad $
 # $LastChangedRevision: 1466758 $
 

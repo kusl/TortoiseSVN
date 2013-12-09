@@ -18,7 +18,7 @@
 # ====================================================================
 
 # $HeadURL: https://svn.apache.org/repos/asf/subversion/branches/1.8.x/contrib/client-side/svnmerge/svnmerge-migrate-history-remotely.py $
-# $Date: 2009-01-20 17:25:54 -0500 (Tue, 20 Jan 2009) $
+# $Date: 2009-01-20 16:25:54 -0600 (Tue, 20 Jan 2009) $
 # $Author: cmpilato $
 # $Rev: 875432 $
 

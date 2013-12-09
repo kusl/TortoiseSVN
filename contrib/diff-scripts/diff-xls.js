@@ -2,13 +2,13 @@
 //
 // TortoiseSVN Diff script for Excel files
 //
-// Copyright (C) 2004-2008 the TortoiseSVN team
+// Copyright (C) 2004-2008, 2012-2013 the TortoiseSVN team
 // This file is distributed under the same license as TortoiseSVN
 //
 // Last commit by:
-// $Author: tortoisesvn $
-// $Date: 2013-11-05 14:08:53 -0500 (Tue, 05 Nov 2013) $
-// $Rev: 24929 $
+// $Author: XhmikosR $
+// $Date: 2013-11-24 12:22:30 -0600 (Sun, 24 Nov 2013) $
+// $Rev: 24973 $
 //
 // Authors:
 // Hiroki Najima <h.najima at gmail.com>, 2013

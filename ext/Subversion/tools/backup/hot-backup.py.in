@@ -29,7 +29,7 @@
 # ====================================================================
 
 # $HeadURL: https://svn.apache.org/repos/asf/subversion/branches/1.8.x/tools/backup/hot-backup.py.in $
-# $LastChangedDate: 2010-08-20 00:30:52 -0400 (Fri, 20 Aug 2010) $
+# $LastChangedDate: 2010-08-19 23:30:52 -0500 (Thu, 19 Aug 2010) $
 # $LastChangedBy: cmpilato $
 # $LastChangedRevision: 987379 $
 

@@ -18,7 +18,7 @@
 # This script requires Subversion 1.2.0 or later.
 #
 # $HeadURL: https://svn.apache.org/repos/asf/subversion/branches/1.8.x/contrib/hook-scripts/commit-email.pl.in $
-# $LastChangedDate: 2010-01-28 18:24:20 -0500 (Thu, 28 Jan 2010) $
+# $LastChangedDate: 2010-01-28 17:24:20 -0600 (Thu, 28 Jan 2010) $
 # $LastChangedBy: neels $
 # $LastChangedRevision: 904301 $
 #

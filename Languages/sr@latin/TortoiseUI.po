@@ -5,8 +5,8 @@
 # 
 # Last commit by:
 # $Author: luebbe.tortoisesvn $
-# $Date: 2013-11-15 03:23:39 -0500 (Fri, 15 Nov 2013) $
-# $Rev: 24956 $
+# $Date: 2013-12-09 04:30:06 -0600 (Mon, 09 Dec 2013) $
+# $Rev: 25031 $
 # 
 # Authors:
 # Translators:
@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: TortoiseSVN\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1900-01-01 00:00+0000\n"
-"PO-Revision-Date: 2013-11-12 08:40+0000\n"
+"PO-Revision-Date: 2013-12-07 08:28+0000\n"
 "Last-Translator: Lübbe TortoiseSVN <luebbe.tortoisesvn@gmail.com>\n"
 "Language-Team: Serbian (Latin) (http://www.transifex.com/projects/p/tortoisesvn/language/sr@latin/)\n"
 "MIME-Version: 1.0\n"
@@ -421,7 +421,7 @@ msgstr "&Dodaj >>"
 
 #. Resource IDs: (1505)
 msgid "&Add Filter"
-msgstr ""
+msgstr "Dod&aj filter"
 
 #. Resource IDs: (1064)
 msgid "&Add or Remove Buttons"
@@ -661,7 +661,7 @@ msgstr "&Obriši (sačuvaj lokalno) "
 
 #. Resource IDs: (1507)
 msgid "&Delete Filter"
-msgstr ""
+msgstr "&Obriši filter"
 
 #. Resource IDs: (1514)
 msgid "&Delete unversioned items..."
@@ -705,7 +705,7 @@ msgstr "Ur&edi"
 
 #. Resource IDs: (1506)
 msgid "&Edit Filter"
-msgstr ""
+msgstr "Ur&edi filter"
 
 #. Resource IDs: (1399)
 msgid "&Edit conflict"
@@ -1432,7 +1432,7 @@ msgstr "&Nepoznati diskovi"
 
 #. Resource IDs: (1074)
 msgid "&Up"
-msgstr ""
+msgstr "&Gore"
 
 #. Resource IDs: (8)
 msgid "&Update"
@@ -3232,7 +3232,7 @@ msgstr "Konfiguriši da &TortoiseSVN nikad ne koristi korpu za recikliranje"
 
 #. Resource IDs: (7)
 msgid "Configure Filter Regexes"
-msgstr ""
+msgstr "Konfiguriši filter regeks"
 
 #. Resource IDs: (236)
 msgid "Configure Hook Scripts"
@@ -3362,10 +3362,6 @@ msgstr "Alat čišćenja\nOčisti"
 msgid "Copy URL to clipboard"
 msgstr "Kopiraj URL u klipbord"
 
-#. Resource IDs: (209)
-msgid "Copy all information to clipboard"
-msgstr "Kopiraj sve informacije u klipbord"
-
 #. Resource IDs: (146)
 msgid "Copy and rename"
 msgstr "Kopiraj i preimenuj"
@@ -3374,10 +3370,6 @@ msgstr "Kopiraj i preimenuj"
 msgid "Copy and rename item to here"
 msgstr "Ovđe kopiraj i preimenuj stavku"
 
-#. Resource IDs: (209)
-msgid "Copy column to clipboard"
-msgstr "Kopiraj kolonu u klipbord"
-
 #. Resource IDs: (76)
 msgid "Copy from path"
 msgstr "Kopija sa putanje"
@@ -3385,10 +3377,6 @@ msgstr "Kopija sa putanje"
 #. Resource IDs: (103)
 msgid "Copy items to here"
 msgstr "Kopiraj stavke ovde"
-
-#. Resource IDs: (209)
-msgid "Copy paths to clipboard"
-msgstr "Kopiraj putanje u klipbord"
 
 #. Resource IDs: (323)
 msgid "Copy selection to cli&pboard"
@@ -3589,8 +3577,8 @@ msgstr "B&rojanje"
 
 #. Resource IDs: (94)
 #, c-format
-msgid "Count: %d matches."
-msgstr "Broj: %d nađeno."
+msgid "Count: %u matches."
+msgstr "Broj: %u nađeno."
 
 #. Resource IDs: (1542)
 msgid "Create &Library"
@@ -3924,9 +3912,17 @@ msgstr "Dif pregledač::alat stapanja"
 msgid "Diff file:"
 msgstr "Diff fajl:"
 
+#. Resource IDs: (17)
+msgid "Diff later"
+msgstr ""
+
 #. Resource IDs: (1533)
 msgid "Diff options"
 msgstr "Diff opcije"
+
+#. Resource IDs: (18)
+msgid "Diff with"
+msgstr ""
 
 #. Resource IDs: (146, 279)
 msgid "Diff with URL"
@@ -4858,6 +4854,10 @@ msgstr "Fajlime, nastavak ili mime-tip:"
 msgid "Filename/Extension"
 msgstr "Fajlime/Nastavak"
 
+#. Resource IDs: (116)
+msgid "Filenames"
+msgstr "Imena fajlova"
+
 #. Resource IDs: (1512)
 msgid "Files"
 msgstr "Fajlovi"
@@ -5001,6 +5001,14 @@ msgstr "Od:"
 #. Resource IDs: (1065)
 msgid "Full Screen"
 msgstr "Preko celog ekrana"
+
+#. Resource IDs: (113)
+msgid "Full data"
+msgstr "Potpun podatak"
+
+#. Resource IDs: (116)
+msgid "Full revision data without changed paths"
+msgstr "Potpun revizioni podatak bez izmenjenih putanja"
 
 #. Resource IDs: (19)
 msgid "Fully recursive"
@@ -5613,7 +5621,7 @@ msgstr "Z&anemari poreklo"
 
 #. Resource IDs: (156)
 msgid "Ignore Comments"
-msgstr ""
+msgstr "Ignoriše komentare"
 
 #. Resource IDs: (32873)
 msgid "Ignore all whitespace changes"
@@ -6691,7 +6699,7 @@ msgstr "Ime"
 
 #. Resource IDs: (65535)
 msgid "Name:"
-msgstr ""
+msgstr "Ime:"
 
 #. Resource IDs: (156)
 msgid "Navigate"
@@ -6754,7 +6762,7 @@ msgstr "Novo ime ne može biti prazno ili isto kao originalno ime!"
 
 #. Resource IDs: (101)
 msgid "Newlines"
-msgstr ""
+msgstr "Nova linija"
 
 #. Resource IDs: (3633)
 msgid ""
@@ -7298,6 +7306,10 @@ msgstr "Nađena putanja bolje upoređuje zakrpu"
 msgid "Paths"
 msgstr "Putanje"
 
+#. Resource IDs: (116)
+msgid "Paths relative to root"
+msgstr "Putanje relativne korenu"
+
 #. Resource IDs: (218)
 msgid "Peg"
 msgstr "Klin"
@@ -7839,15 +7851,15 @@ msgstr "Osvežava školjku za %1!s!"
 
 #. Resource IDs: (32, 156, 165)
 msgid "Regex Filter"
-msgstr ""
+msgstr "Regeks filter"
 
 #. Resource IDs: (164)
 msgid "Regex Filters"
-msgstr ""
+msgstr "Regeks filteri"
 
 #. Resource IDs: (65535)
 msgid "Regex:"
-msgstr ""
+msgstr "Regeks:"
 
 #. Resource IDs: (1576)
 msgid "Regular Expression"
@@ -7987,7 +7999,7 @@ msgstr "Ukloni sačuvane autentifikacione podatke"
 msgid ""
 "Remove all comments before doing the diff so changes inside comments don't "
 "show as different"
-msgstr ""
+msgstr "Ukloni sve komentare pre nego je urađen dif tako da  izmene unutar komentara nisu prikazane kao različite"
 
 #. Resource IDs: (15)
 msgid "Remove from &ignore list"
@@ -8151,7 +8163,7 @@ msgstr "Zameni označeni tekst nekim drugim tekstom\nZameni"
 
 #. Resource IDs: (65535)
 msgid "Replace:"
-msgstr ""
+msgstr "Zameni:"
 
 #. Resource IDs: (74)
 msgid "Replacing"
@@ -9469,6 +9481,12 @@ msgstr "Pokreni uređivač registra"
 msgid "Starting externals..."
 msgstr "Započinju eksternali..."
 
+#. Resource IDs: (18)
+msgid ""
+"Starts the diff viewer with the currently selected file and the one marked "
+"before for diffing later."
+msgstr ""
+
 #. Resource IDs: (16514)
 msgid "Static"
 msgstr "Statički"
@@ -9517,6 +9535,12 @@ msgstr "Ukradi zaključano"
 #. Resource IDs: (65535)
 msgid "Stefan Küng, Lübbe Onken"
 msgstr "Stefan Küng, Lübbe Onken"
+
+#. Resource IDs: (17)
+msgid ""
+"Stores the path of the file to be used for a diff on a later right-click. "
+"Hold down the Ctrl key to remove the last saved path."
+msgstr ""
 
 #. Resource IDs: (65535)
 msgid "Stripes"
@@ -10157,7 +10181,7 @@ msgstr "Ciljna radna kopija ima lokalne izmene!\nŽelite li da je ipak stopite?"
 msgid ""
 "The text is identical, but the files do not match!\r\n"
 "The following differences were found:"
-msgstr ""
+msgstr "Tekst je identičanali ali fajlovi nisu prepoznati!\r\nSledeće razlike su nađene:"
 
 #. Resource IDs: (195)
 msgid ""
@@ -10883,6 +10907,10 @@ msgstr "Nadogrdnja radne kopije"
 msgid "Upgrading '%1!s!'"
 msgstr "Dogradnja '%1!s!'"
 
+#. Resource IDs: (116)
+msgid "Urls"
+msgstr "Urlovi"
+
 #. Resource IDs: (16530)
 msgid "Use &Default Image: "
 msgstr "Koristi &uobičajenu sliku"
@@ -11239,7 +11267,7 @@ msgstr "Kad zaključavate jedan ili više odabranih fajova, prikazuje dijalog\nk
 
 #. Resource IDs: (101)
 msgid "Whitespace changes (tabs, spaces)"
-msgstr ""
+msgstr "Beline su izmenjene (tabovi, razmaci)"
 
 #. Resource IDs: (65535)
 msgid "Whitespaces"
@@ -11566,6 +11594,10 @@ msgstr "alias: %s"
 msgid "all &revisions"
 msgstr "sve &revizije"
 
+#. Resource IDs: (209)
+msgid "all information"
+msgstr "sve informacije"
+
 #. Resource IDs: (3841)
 msgid "an unnamed file"
 msgstr "fajl bez imena"
@@ -11660,6 +11692,11 @@ msgstr "bugtraq:url\r\nURL koji pokazuje na problem tragač. On mora sadržati '
 msgid "changes total: "
 msgstr "ukupno izmena:"
 
+#. Resource IDs: (209)
+#, c-format
+msgid "column '%s'"
+msgstr "kolona  '%s'"
+
 #. Resource IDs: (244, 245)
 msgid "commits"
 msgstr "urezivanja"
@@ -11726,6 +11763,14 @@ msgstr "spoljno"
 #. Resource IDs: (65535)
 msgid "file external:"
 msgstr "Fajl spoljni:"
+
+#. Resource IDs: (210)
+msgid "file/foldernames"
+msgstr "fajl/folder imena"
+
+#. Resource IDs: (210)
+msgid "full paths"
+msgstr "puna putanja"
 
 #. Resource IDs: (591)
 msgid "get HEAD revision:"
@@ -11927,6 +11972,10 @@ msgstr "tromesečja godine"
 #. Resource IDs: (195)
 msgid "readonly"
 msgstr "samo za čitanje"
+
+#. Resource IDs: (209)
+msgid "relative paths"
+msgstr "relativna putanja"
 
 #. Resource IDs: (10)
 msgid "replaced"

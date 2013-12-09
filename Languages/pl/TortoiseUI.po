@@ -5,8 +5,8 @@
 # 
 # Last commit by:
 # $Author: luebbe.tortoisesvn $
-# $Date: 2013-11-15 03:23:39 -0500 (Fri, 15 Nov 2013) $
-# $Rev: 24956 $
+# $Date: 2013-12-09 04:30:06 -0600 (Mon, 09 Dec 2013) $
+# $Rev: 25031 $
 # 
 # Authors:
 # Translators:
@@ -25,8 +25,8 @@ msgstr ""
 "Project-Id-Version: TortoiseSVN\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1900-01-01 00:00+0000\n"
-"PO-Revision-Date: 2013-11-12 08:40+0000\n"
-"Last-Translator: Lübbe TortoiseSVN <luebbe.tortoisesvn@gmail.com>\n"
+"PO-Revision-Date: 2013-12-07 19:00+0000\n"
+"Last-Translator: Begina Felicysym <begina.felicysym@wp.eu>\n"
 "Language-Team: Polish (http://www.transifex.com/projects/p/tortoisesvn/language/pl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -3368,10 +3368,6 @@ msgstr "Narzędzie kopiowania\nKopiuj"
 msgid "Copy URL to clipboard"
 msgstr "Kopiuj adres URL do schowka"
 
-#. Resource IDs: (209)
-msgid "Copy all information to clipboard"
-msgstr "Kopiuj wszystkie informacje do schowka"
-
 #. Resource IDs: (146)
 msgid "Copy and rename"
 msgstr "Kopiuj i zmień nazwę"
@@ -3380,10 +3376,6 @@ msgstr "Kopiuj i zmień nazwę"
 msgid "Copy and rename item to here"
 msgstr "Kopiuj i zmień nazwę elementu tutaj"
 
-#. Resource IDs: (209)
-msgid "Copy column to clipboard"
-msgstr "Kopiuj kolumnę do schowka"
-
 #. Resource IDs: (76)
 msgid "Copy from path"
 msgstr "Kopiuj ze ścieżki"
@@ -3391,10 +3383,6 @@ msgstr "Kopiuj ze ścieżki"
 #. Resource IDs: (103)
 msgid "Copy items to here"
 msgstr "Kopiuj elementy tutaj"
-
-#. Resource IDs: (209)
-msgid "Copy paths to clipboard"
-msgstr "Kopiuj ścieżki do schowka"
 
 #. Resource IDs: (323)
 msgid "Copy selection to cli&pboard"
@@ -3595,8 +3583,8 @@ msgstr "Zlic&z"
 
 #. Resource IDs: (94)
 #, c-format
-msgid "Count: %d matches."
-msgstr "Zlicz: %d dopasowań."
+msgid "Count: %u matches."
+msgstr "Zliczono: %u dopasowań."
 
 #. Resource IDs: (1542)
 msgid "Create &Library"
@@ -3930,9 +3918,17 @@ msgstr "Przeglądarka różnic::Narzędzie scalania"
 msgid "Diff file:"
 msgstr "Plik różnicowy:"
 
+#. Resource IDs: (17)
+msgid "Diff later"
+msgstr "Porównaj później"
+
 #. Resource IDs: (1533)
 msgid "Diff options"
 msgstr "Opcje porównywania"
+
+#. Resource IDs: (18)
+msgid "Diff with"
+msgstr "Porównaj z"
 
 #. Resource IDs: (146, 279)
 msgid "Diff with URL"
@@ -4864,6 +4860,10 @@ msgstr "Nazwa, rozszerzenie lub typ MIME:"
 msgid "Filename/Extension"
 msgstr "Nazwa/Rozszerzenie"
 
+#. Resource IDs: (116)
+msgid "Filenames"
+msgstr "Nazwy plików"
+
 #. Resource IDs: (1512)
 msgid "Files"
 msgstr "Pliki"
@@ -5007,6 +5007,14 @@ msgstr "Z:"
 #. Resource IDs: (1065)
 msgid "Full Screen"
 msgstr "Pełny ekran"
+
+#. Resource IDs: (113)
+msgid "Full data"
+msgstr "Pełne dane"
+
+#. Resource IDs: (116)
+msgid "Full revision data without changed paths"
+msgstr "Pełne dane wersji bez zmienionych ścieżek"
 
 #. Resource IDs: (19)
 msgid "Fully recursive"
@@ -7304,6 +7312,10 @@ msgstr "Znaleziono ścieżkę, która lepiej pasuje do tej ścieżki."
 msgid "Paths"
 msgstr "Ścieżki"
 
+#. Resource IDs: (116)
+msgid "Paths relative to root"
+msgstr "Ścieżki względem korzenia "
+
 #. Resource IDs: (218)
 msgid "Peg"
 msgstr "Wieszakowa"
@@ -9475,6 +9487,12 @@ msgstr "Uruchom edytor rejestru"
 msgid "Starting externals..."
 msgstr "Rozpoczęcie zewnętrznych..."
 
+#. Resource IDs: (18)
+msgid ""
+"Starts the diff viewer with the currently selected file and the one marked "
+"before for diffing later."
+msgstr "Uruchamia przeglądarkę różnic z aktualnie wybranym plikiem i zaznaczonym wcześniej do późniejszych porównań."
+
 #. Resource IDs: (16514)
 msgid "Static"
 msgstr "Statyczny"
@@ -9523,6 +9541,12 @@ msgstr "Przejmuje blokadę"
 #. Resource IDs: (65535)
 msgid "Stefan Küng, Lübbe Onken"
 msgstr "Stefan Küng, Lübbe Onken"
+
+#. Resource IDs: (17)
+msgid ""
+"Stores the path of the file to be used for a diff on a later right-click. "
+"Hold down the Ctrl key to remove the last saved path."
+msgstr "Zapisuje ścieżkę do pliku by jej użyć do porównania podczas kolejnych prawoklików. Trzymaj wciśnięty klawisz Ctrl by usunąć ostatnio zapisaną ścieżkę."
 
 #. Resource IDs: (65535)
 msgid "Stripes"
@@ -10889,6 +10913,10 @@ msgstr "Konwertuj kopię roboczą"
 msgid "Upgrading '%1!s!'"
 msgstr "Aktualizacja '%1!s!'"
 
+#. Resource IDs: (116)
+msgid "Urls"
+msgstr "Adresy URL"
+
 #. Resource IDs: (16530)
 msgid "Use &Default Image: "
 msgstr "Użyj &domyślnego obrazu: "
@@ -11572,6 +11600,10 @@ msgstr "alias: %s"
 msgid "all &revisions"
 msgstr "wszystkie we&rsje"
 
+#. Resource IDs: (209)
+msgid "all information"
+msgstr "wszystkie informacje"
+
 #. Resource IDs: (3841)
 msgid "an unnamed file"
 msgstr "plik bez nazwy"
@@ -11666,6 +11698,11 @@ msgstr "bugtraq:url\r\nAdres URL wskazujący na program do śledzenia błędów.
 msgid "changes total: "
 msgstr "razem zmian: "
 
+#. Resource IDs: (209)
+#, c-format
+msgid "column '%s'"
+msgstr "kolumna '%s'"
+
 #. Resource IDs: (244, 245)
 msgid "commits"
 msgstr "zatwierdzenia zmian"
@@ -11732,6 +11769,14 @@ msgstr "zewnętrzny"
 #. Resource IDs: (65535)
 msgid "file external:"
 msgstr "zewnętrzny plik:"
+
+#. Resource IDs: (210)
+msgid "file/foldernames"
+msgstr "nazwy plików/folderów"
+
+#. Resource IDs: (210)
+msgid "full paths"
+msgstr "pełne ścieżki"
 
 #. Resource IDs: (591)
 msgid "get HEAD revision:"
@@ -11933,6 +11978,10 @@ msgstr "kwartałów"
 #. Resource IDs: (195)
 msgid "readonly"
 msgstr "tylko do odczytu"
+
+#. Resource IDs: (209)
+msgid "relative paths"
+msgstr "ścieżki względne"
 
 #. Resource IDs: (10)
 msgid "replaced"

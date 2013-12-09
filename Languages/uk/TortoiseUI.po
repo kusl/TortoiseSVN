@@ -5,11 +5,12 @@
 # 
 # Last commit by:
 # $Author: luebbe.tortoisesvn $
-# $Date: 2013-11-15 03:23:39 -0500 (Fri, 15 Nov 2013) $
-# $Rev: 24956 $
+# $Date: 2013-12-09 04:30:06 -0600 (Mon, 09 Dec 2013) $
+# $Rev: 25031 $
 # 
 # Authors:
 # Translators:
+# ktretyak <ktretyakgm@gmail.com>, 2013
 # probil <m_lyashuk@ukr.net>, 2013
 # Vitaliy Katerusha <vitali_kat@hotmail.com>, 2011
 # BIKTOP <victor.leleyko@gmail.com>, 2013
@@ -18,7 +19,7 @@ msgstr ""
 "Project-Id-Version: TortoiseSVN\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1900-01-01 00:00+0000\n"
-"PO-Revision-Date: 2013-11-12 08:40+0000\n"
+"PO-Revision-Date: 2013-12-07 08:28+0000\n"
 "Last-Translator: Lübbe TortoiseSVN <luebbe.tortoisesvn@gmail.com>\n"
 "Language-Team: Ukrainian (http://www.transifex.com/projects/p/tortoisesvn/language/uk/)\n"
 "MIME-Version: 1.0\n"
@@ -632,7 +633,7 @@ msgstr "&Копіювати до..."
 
 #. Resource IDs: (1542)
 msgid "&Create folder structure"
-msgstr ""
+msgstr "&Створити структуру каталогів"
 
 #. Resource IDs: (1097, 1560)
 msgid "&Custom"
@@ -905,7 +906,7 @@ msgstr "Пере&йти до першої відмінності під час �
 
 #. Resource IDs: (32852)
 msgid "&Keywords"
-msgstr ""
+msgstr "Ключові слова"
 
 #. Resource IDs: (65535)
 msgid "&Language:"
@@ -2289,7 +2290,7 @@ msgstr "Назад"
 
 #. Resource IDs: (65535)
 msgid "Background"
-msgstr ""
+msgstr "Тло"
 
 #. Resource IDs: (106)
 msgid "Backwards in browsing history"
@@ -3361,10 +3362,6 @@ msgstr "Знаряддя для копіювання\nКопіювати"
 msgid "Copy URL to clipboard"
 msgstr "Копіювати URL до буфера обміну"
 
-#. Resource IDs: (209)
-msgid "Copy all information to clipboard"
-msgstr "Копіювати всю інформацію до буфера обміну"
-
 #. Resource IDs: (146)
 msgid "Copy and rename"
 msgstr "Копіювати та перейменувати"
@@ -3373,10 +3370,6 @@ msgstr "Копіювати та перейменувати"
 msgid "Copy and rename item to here"
 msgstr "Перейменувати та копіювати елемент сюди"
 
-#. Resource IDs: (209)
-msgid "Copy column to clipboard"
-msgstr "Копіювати колонку до буфера обміну"
-
 #. Resource IDs: (76)
 msgid "Copy from path"
 msgstr "Копіювати зі шляху"
@@ -3384,10 +3377,6 @@ msgstr "Копіювати зі шляху"
 #. Resource IDs: (103)
 msgid "Copy items to here"
 msgstr "Копіювати елементи сюди"
-
-#. Resource IDs: (209)
-msgid "Copy paths to clipboard"
-msgstr "Копіювати шляхи до буфера обміну"
 
 #. Resource IDs: (323)
 msgid "Copy selection to cli&pboard"
@@ -3588,7 +3577,7 @@ msgstr ""
 
 #. Resource IDs: (94)
 #, c-format
-msgid "Count: %d matches."
+msgid "Count: %u matches."
 msgstr ""
 
 #. Resource IDs: (1542)
@@ -3923,9 +3912,17 @@ msgstr ""
 msgid "Diff file:"
 msgstr "Файл відмінностей:"
 
+#. Resource IDs: (17)
+msgid "Diff later"
+msgstr ""
+
 #. Resource IDs: (1533)
 msgid "Diff options"
 msgstr "Параметри відмінностей"
+
+#. Resource IDs: (18)
+msgid "Diff with"
+msgstr ""
 
 #. Resource IDs: (146, 279)
 msgid "Diff with URL"
@@ -4857,6 +4854,10 @@ msgstr "Ім'я файлу, розширення або тип mime:"
 msgid "Filename/Extension"
 msgstr "Ім'я файлу/Розширення"
 
+#. Resource IDs: (116)
+msgid "Filenames"
+msgstr ""
+
 #. Resource IDs: (1512)
 msgid "Files"
 msgstr "Файли"
@@ -5000,6 +5001,14 @@ msgstr "Від:"
 #. Resource IDs: (1065)
 msgid "Full Screen"
 msgstr "На повний екран"
+
+#. Resource IDs: (113)
+msgid "Full data"
+msgstr ""
+
+#. Resource IDs: (116)
+msgid "Full revision data without changed paths"
+msgstr ""
 
 #. Resource IDs: (19)
 msgid "Fully recursive"
@@ -5969,7 +5978,7 @@ msgstr ""
 
 #. Resource IDs: (65535)
 msgid "L&imit:"
-msgstr ""
+msgstr "Обмеження:"
 
 #. Resource IDs: (32855)
 msgid "Lan&guages"
@@ -7296,6 +7305,10 @@ msgstr ""
 #. Resource IDs: (116)
 msgid "Paths"
 msgstr "Шляхи"
+
+#. Resource IDs: (116)
+msgid "Paths relative to root"
+msgstr ""
 
 #. Resource IDs: (218)
 msgid "Peg"
@@ -8848,7 +8861,7 @@ msgstr "Вибрати ціль злиття"
 
 #. Resource IDs: (13)
 msgid "Select patch file..."
-msgstr ""
+msgstr "Виберіть файл латки..."
 
 #. Resource IDs: (279)
 msgid "Select revision range"
@@ -9468,6 +9481,12 @@ msgstr ""
 msgid "Starting externals..."
 msgstr ""
 
+#. Resource IDs: (18)
+msgid ""
+"Starts the diff viewer with the currently selected file and the one marked "
+"before for diffing later."
+msgstr ""
+
 #. Resource IDs: (16514)
 msgid "Static"
 msgstr "Статичний"
@@ -9516,6 +9535,12 @@ msgstr "Перехопити блокування"
 #. Resource IDs: (65535)
 msgid "Stefan Küng, Lübbe Onken"
 msgstr "Stefan Küng, Lübbe Onken"
+
+#. Resource IDs: (17)
+msgid ""
+"Stores the path of the file to be used for a diff on a later right-click. "
+"Hold down the Ctrl key to remove the last saved path."
+msgstr ""
 
 #. Resource IDs: (65535)
 msgid "Stripes"
@@ -10301,7 +10326,7 @@ msgstr ""
 
 #. Resource IDs: (84)
 msgid "This file already exists!"
-msgstr ""
+msgstr "Цей файл уже існує!"
 
 #. Resource IDs: (83)
 msgid ""
@@ -10881,6 +10906,10 @@ msgstr "Апгрейднути робочу копію"
 #, c-format
 msgid "Upgrading '%1!s!'"
 msgstr "Оновлення '%1!s!'"
+
+#. Resource IDs: (116)
+msgid "Urls"
+msgstr ""
 
 #. Resource IDs: (16530)
 msgid "Use &Default Image: "
@@ -11565,6 +11594,10 @@ msgstr "псевдонім: %s"
 msgid "all &revisions"
 msgstr "всі модифікації"
 
+#. Resource IDs: (209)
+msgid "all information"
+msgstr ""
+
 #. Resource IDs: (3841)
 msgid "an unnamed file"
 msgstr "неіменований файл"
@@ -11659,6 +11692,11 @@ msgstr "bugtraq:url\r\nURL, що вказує на проблемоблік. В�
 msgid "changes total: "
 msgstr "усього змін:"
 
+#. Resource IDs: (209)
+#, c-format
+msgid "column '%s'"
+msgstr ""
+
 #. Resource IDs: (244, 245)
 msgid "commits"
 msgstr "фіксувань"
@@ -11725,6 +11763,14 @@ msgstr "зовнішній"
 #. Resource IDs: (65535)
 msgid "file external:"
 msgstr "зовнішній файл:"
+
+#. Resource IDs: (210)
+msgid "file/foldernames"
+msgstr ""
+
+#. Resource IDs: (210)
+msgid "full paths"
+msgstr ""
 
 #. Resource IDs: (591)
 msgid "get HEAD revision:"
@@ -11926,6 +11972,10 @@ msgstr ""
 #. Resource IDs: (195)
 msgid "readonly"
 msgstr "тільки для читання"
+
+#. Resource IDs: (209)
+msgid "relative paths"
+msgstr ""
 
 #. Resource IDs: (10)
 msgid "replaced"
@@ -12268,7 +12318,7 @@ msgstr "user:state"
 
 #. Resource IDs: (1583)
 msgid "uuid x6&4:"
-msgstr ""
+msgstr "uuid x6&4:"
 
 #. Resource IDs: (588)
 msgid "values are different"

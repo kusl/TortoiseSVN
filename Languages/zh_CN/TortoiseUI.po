@@ -5,8 +5,8 @@
 # 
 # Last commit by:
 # $Author: luebbe.tortoisesvn $
-# $Date: 2013-11-15 03:23:39 -0500 (Fri, 15 Nov 2013) $
-# $Rev: 24956 $
+# $Date: 2013-12-09 04:30:06 -0600 (Mon, 09 Dec 2013) $
+# $Rev: 25031 $
 # 
 # Authors:
 # Translators:
@@ -33,7 +33,7 @@ msgstr ""
 "Project-Id-Version: TortoiseSVN\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 1900-01-01 00:00+0000\n"
-"PO-Revision-Date: 2013-11-12 08:40+0000\n"
+"PO-Revision-Date: 2013-12-07 08:28+0000\n"
 "Last-Translator: Lübbe TortoiseSVN <luebbe.tortoisesvn@gmail.com>\n"
 "Language-Team: Chinese (China) (http://www.transifex.com/projects/p/tortoisesvn/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
@@ -435,7 +435,7 @@ msgstr "增加(&A) >>"
 
 #. Resource IDs: (1505)
 msgid "&Add Filter"
-msgstr ""
+msgstr "添加过滤器(&A)"
 
 #. Resource IDs: (1064)
 msgid "&Add or Remove Buttons"
@@ -675,7 +675,7 @@ msgstr "删除(保留本地副本)(&D)"
 
 #. Resource IDs: (1507)
 msgid "&Delete Filter"
-msgstr ""
+msgstr "删除过滤器(&D)"
 
 #. Resource IDs: (1514)
 msgid "&Delete unversioned items..."
@@ -719,7 +719,7 @@ msgstr "编辑(&E)"
 
 #. Resource IDs: (1506)
 msgid "&Edit Filter"
-msgstr ""
+msgstr "编辑过滤器(&E)"
 
 #. Resource IDs: (1399)
 msgid "&Edit conflict"
@@ -1446,7 +1446,7 @@ msgstr "未知磁盘(&U)"
 
 #. Resource IDs: (1074)
 msgid "&Up"
-msgstr ""
+msgstr "向上(&U)"
 
 #. Resource IDs: (8)
 msgid "&Update"
@@ -3246,7 +3246,7 @@ msgstr "配置 &TortoiseSVN 不使用回收站"
 
 #. Resource IDs: (7)
 msgid "Configure Filter Regexes"
-msgstr ""
+msgstr "配置过滤器正则表达式"
 
 #. Resource IDs: (236)
 msgid "Configure Hook Scripts"
@@ -3376,10 +3376,6 @@ msgstr "复制工具\n复制"
 msgid "Copy URL to clipboard"
 msgstr "复制 URL"
 
-#. Resource IDs: (209)
-msgid "Copy all information to clipboard"
-msgstr "复制所有信息到剪贴板"
-
 #. Resource IDs: (146)
 msgid "Copy and rename"
 msgstr "复制和改名"
@@ -3388,10 +3384,6 @@ msgstr "复制和改名"
 msgid "Copy and rename item to here"
 msgstr "复制和改名项到此"
 
-#. Resource IDs: (209)
-msgid "Copy column to clipboard"
-msgstr "复制该列到剪贴板"
-
 #. Resource IDs: (76)
 msgid "Copy from path"
 msgstr "从路径复制"
@@ -3399,10 +3391,6 @@ msgstr "从路径复制"
 #. Resource IDs: (103)
 msgid "Copy items to here"
 msgstr "复制项到此"
-
-#. Resource IDs: (209)
-msgid "Copy paths to clipboard"
-msgstr "将路径复制到剪贴板"
 
 #. Resource IDs: (323)
 msgid "Copy selection to cli&pboard"
@@ -3603,8 +3591,8 @@ msgstr "计数(&t)"
 
 #. Resource IDs: (94)
 #, c-format
-msgid "Count: %d matches."
-msgstr "数量: %d 次匹配。"
+msgid "Count: %u matches."
+msgstr ""
 
 #. Resource IDs: (1542)
 msgid "Create &Library"
@@ -3938,9 +3926,17 @@ msgstr "差异查看/合并工具"
 msgid "Diff file:"
 msgstr "补丁文件: "
 
+#. Resource IDs: (17)
+msgid "Diff later"
+msgstr ""
+
 #. Resource IDs: (1533)
 msgid "Diff options"
 msgstr "差异选项"
+
+#. Resource IDs: (18)
+msgid "Diff with"
+msgstr ""
 
 #. Resource IDs: (146, 279)
 msgid "Diff with URL"
@@ -4872,6 +4868,10 @@ msgstr "文件名、扩展名或文件类型: "
 msgid "Filename/Extension"
 msgstr "文件名/扩展名"
 
+#. Resource IDs: (116)
+msgid "Filenames"
+msgstr ""
+
 #. Resource IDs: (1512)
 msgid "Files"
 msgstr "文件"
@@ -5015,6 +5015,14 @@ msgstr "起始: "
 #. Resource IDs: (1065)
 msgid "Full Screen"
 msgstr "全屏"
+
+#. Resource IDs: (113)
+msgid "Full data"
+msgstr ""
+
+#. Resource IDs: (116)
+msgid "Full revision data without changed paths"
+msgstr ""
 
 #. Resource IDs: (19)
 msgid "Fully recursive"
@@ -5627,7 +5635,7 @@ msgstr "忽略根源(&A)"
 
 #. Resource IDs: (156)
 msgid "Ignore Comments"
-msgstr ""
+msgstr "忽略注释"
 
 #. Resource IDs: (32873)
 msgid "Ignore all whitespace changes"
@@ -6705,7 +6713,7 @@ msgstr "名称"
 
 #. Resource IDs: (65535)
 msgid "Name:"
-msgstr ""
+msgstr "名称："
 
 #. Resource IDs: (156)
 msgid "Navigate"
@@ -6768,7 +6776,7 @@ msgstr "新的名称不能为空白，也不能和原来的名称相同！"
 
 #. Resource IDs: (101)
 msgid "Newlines"
-msgstr ""
+msgstr "新行"
 
 #. Resource IDs: (3633)
 msgid ""
@@ -7312,6 +7320,10 @@ msgstr "找到了更符合补丁的路径。"
 msgid "Paths"
 msgstr "路径"
 
+#. Resource IDs: (116)
+msgid "Paths relative to root"
+msgstr ""
+
 #. Resource IDs: (218)
 msgid "Peg"
 msgstr "Peg"
@@ -7853,15 +7865,15 @@ msgstr "正在刷新 %1!s! 的图标"
 
 #. Resource IDs: (32, 156, 165)
 msgid "Regex Filter"
-msgstr ""
+msgstr "正则过滤器"
 
 #. Resource IDs: (164)
 msgid "Regex Filters"
-msgstr ""
+msgstr "正则过滤器"
 
 #. Resource IDs: (65535)
 msgid "Regex:"
-msgstr ""
+msgstr "正则表达式："
 
 #. Resource IDs: (1576)
 msgid "Regular Expression"
@@ -8001,7 +8013,7 @@ msgstr "移除已保存的认证数据"
 msgid ""
 "Remove all comments before doing the diff so changes inside comments don't "
 "show as different"
-msgstr ""
+msgstr "比较差异前去除所有注释，以使注释内的变更不显示为差异"
 
 #. Resource IDs: (15)
 msgid "Remove from &ignore list"
@@ -8165,7 +8177,7 @@ msgstr "用指定的文字替换特定文字\n替换"
 
 #. Resource IDs: (65535)
 msgid "Replace:"
-msgstr ""
+msgstr "替换："
 
 #. Resource IDs: (74)
 msgid "Replacing"
@@ -9483,6 +9495,12 @@ msgstr "启动注册表编辑器"
 msgid "Starting externals..."
 msgstr "开始外部模块..."
 
+#. Resource IDs: (18)
+msgid ""
+"Starts the diff viewer with the currently selected file and the one marked "
+"before for diffing later."
+msgstr ""
+
 #. Resource IDs: (16514)
 msgid "Static"
 msgstr "静态"
@@ -9531,6 +9549,12 @@ msgstr "偷取此锁定"
 #. Resource IDs: (65535)
 msgid "Stefan Küng, Lübbe Onken"
 msgstr "Stefan Küng, Lübbe Onken"
+
+#. Resource IDs: (17)
+msgid ""
+"Stores the path of the file to be used for a diff on a later right-click. "
+"Hold down the Ctrl key to remove the last saved path."
+msgstr ""
 
 #. Resource IDs: (65535)
 msgid "Stripes"
@@ -10171,7 +10195,7 @@ msgstr "有尚未保存的修改！\n是否要保存你做的修改？"
 msgid ""
 "The text is identical, but the files do not match!\r\n"
 "The following differences were found:"
-msgstr ""
+msgstr "文本是相同的，但文件不匹配！\n找到了下列差异："
 
 #. Resource IDs: (195)
 msgid ""
@@ -10897,6 +10921,10 @@ msgstr "升级工作副本"
 msgid "Upgrading '%1!s!'"
 msgstr "正在升级'%1!s!'"
 
+#. Resource IDs: (116)
+msgid "Urls"
+msgstr ""
+
 #. Resource IDs: (16530)
 msgid "Use &Default Image: "
 msgstr "使用默认图片(&D): "
@@ -11253,7 +11281,7 @@ msgstr "当锁定一个或多个文件时，显示对话框询问锁定的描述
 
 #. Resource IDs: (101)
 msgid "Whitespace changes (tabs, spaces)"
-msgstr ""
+msgstr "空白的变化（制表符、空格）"
 
 #. Resource IDs: (65535)
 msgid "Whitespaces"
@@ -11580,6 +11608,10 @@ msgstr "别名: %s"
 msgid "all &revisions"
 msgstr "所有版本(&R)"
 
+#. Resource IDs: (209)
+msgid "all information"
+msgstr ""
+
 #. Resource IDs: (3841)
 msgid "an unnamed file"
 msgstr "未命名文件"
@@ -11674,6 +11706,11 @@ msgstr "bugtraq:url\r\n指向问题追踪的 URL，必须含有“%BUGID%”, \r
 msgid "changes total: "
 msgstr "修改总计: "
 
+#. Resource IDs: (209)
+#, c-format
+msgid "column '%s'"
+msgstr ""
+
 #. Resource IDs: (244, 245)
 msgid "commits"
 msgstr "注解"
@@ -11740,6 +11777,14 @@ msgstr "外部"
 #. Resource IDs: (65535)
 msgid "file external:"
 msgstr "外部文件: "
+
+#. Resource IDs: (210)
+msgid "file/foldernames"
+msgstr ""
+
+#. Resource IDs: (210)
+msgid "full paths"
+msgstr ""
 
 #. Resource IDs: (591)
 msgid "get HEAD revision:"
@@ -11941,6 +11986,10 @@ msgstr "季度"
 #. Resource IDs: (195)
 msgid "readonly"
 msgstr "只读"
+
+#. Resource IDs: (209)
+msgid "relative paths"
+msgstr ""
 
 #. Resource IDs: (10)
 msgid "replaced"

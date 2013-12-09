@@ -47,7 +47,7 @@
 # ====================================================================
 #
 # $HeadURL: https://svn.apache.org/repos/asf/subversion/branches/1.8.x/tools/server-side/fsfs-reshard.py $
-# $LastChangedDate: 2009-11-16 14:07:17 -0500 (Mon, 16 Nov 2009) $
+# $LastChangedDate: 2009-11-16 13:07:17 -0600 (Mon, 16 Nov 2009) $
 # $LastChangedBy: hwright $
 # $LastChangedRevision: 880911 $
 

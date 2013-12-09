@@ -5,7 +5,7 @@ Fix a bad FSFS revision file in-place.  Doesn't create backups.
 
 Usage: $0 REPO-DIR REVISION
 
-$LastChangedDate: 2013-02-01 09:05:19 -0500 (Fri, 01 Feb 2013) $
+$LastChangedDate: 2013-02-01 08:05:19 -0600 (Fri, 01 Feb 2013) $
 $LastChangedRevision: 1441448 $
 """
 

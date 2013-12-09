@@ -5,7 +5,7 @@
 #
 # $HeadURL: https://svn.apache.org/repos/asf/subversion/branches/1.8.x/contrib/client-side/svn_apply_autoprops.py $
 # $LastChangedRevision: 1073340 $
-# $LastChangedDate: 2011-02-22 09:25:21 -0500 (Tue, 22 Feb 2011) $
+# $LastChangedDate: 2011-02-22 08:25:21 -0600 (Tue, 22 Feb 2011) $
 # $LastChangedBy: stsp $
 #
 # Copyright (C) 2005,2006 Blair Zajac <blair@orcaware.com>

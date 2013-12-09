@@ -29,7 +29,7 @@
 # limitations under the License.
 #
 # $HeadURL: https://svn.apache.org/repos/asf/subversion/branches/1.8.x/contrib/server-side/add-needs-lock.py $
-# $LastChangedDate: 2008-07-30 11:08:35 -0400 (Wed, 30 Jul 2008) $
+# $LastChangedDate: 2008-07-30 10:08:35 -0500 (Wed, 30 Jul 2008) $
 # $LastChangedBy: blair $
 # $LastChangedRevision: 872408 $
 

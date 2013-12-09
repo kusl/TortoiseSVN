@@ -1,7 +1,7 @@
 #!/usr/bin/perl -w
 
 # $HeadURL: https://svn.apache.org/repos/asf/subversion/branches/1.8.x/contrib/client-side/svn_all_diffs.pl $
-# $LastChangedDate: 2008-03-25 10:42:32 -0400 (Tue, 25 Mar 2008) $
+# $LastChangedDate: 2008-03-25 09:42:32 -0500 (Tue, 25 Mar 2008) $
 # $LastChangedBy: arfrever $
 # $LastChangedRevision: 870115 $
 

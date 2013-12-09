@@ -31,7 +31,7 @@
 #     location identifier formats
 #
 # $HeadURL: https://svn.apache.org/repos/asf/subversion/branches/1.8.x/contrib/client-side/svnmerge/svnmerge.py $
-# $LastChangedDate: 2012-08-03 11:19:31 -0400 (Fri, 03 Aug 2012) $
+# $LastChangedDate: 2012-08-03 10:19:31 -0500 (Fri, 03 Aug 2012) $
 # $LastChangedBy: mattiase $
 # $LastChangedRevision: 1369021 $
 #
@@ -159,7 +159,7 @@ def kwextract(s):
         return "<unknown>"
 
 __revision__ = kwextract('$Rev: 1369021 $')
-__date__ = kwextract('$Date: 2012-08-03 11:19:31 -0400 (Fri, 03 Aug 2012) $')
+__date__ = kwextract('$Date: 2012-08-03 10:19:31 -0500 (Fri, 03 Aug 2012) $')
 
 # Additional options, not (yet?) mapped to command line flags
 default_opts = {

@@ -18,7 +18,7 @@
 # ====================================================================
 
 # $HeadURL: https://svn.apache.org/repos/asf/subversion/branches/1.8.x/contrib/client-side/svnmerge/svnmerge-migrate-history.py $
-# $LastChangedDate: 2009-06-11 20:19:03 -0400 (Thu, 11 Jun 2009) $
+# $LastChangedDate: 2009-06-11 19:19:03 -0500 (Thu, 11 Jun 2009) $
 # $LastChangedBy: blair $
 # $LastChangedRevision: 878081 $
 

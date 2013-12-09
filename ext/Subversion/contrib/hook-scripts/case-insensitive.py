@@ -56,7 +56,7 @@
 #
 # $HeadURL: https://svn.apache.org/repos/asf/subversion/branches/1.8.x/contrib/hook-scripts/case-insensitive.py $
 # $LastChangedRevision: 867334 $
-# $LastChangedDate: 2007-10-17 18:04:06 -0400 (Wed, 17 Oct 2007) $
+# $LastChangedDate: 2007-10-17 17:04:06 -0500 (Wed, 17 Oct 2007) $
 # $LastChangedBy: philip $
 
 import sys, locale

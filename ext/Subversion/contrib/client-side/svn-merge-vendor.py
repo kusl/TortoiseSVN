@@ -35,7 +35,7 @@
 #
 # $HeadURL: https://svn.apache.org/repos/asf/subversion/branches/1.8.x/contrib/client-side/svn-merge-vendor.py $
 # $LastChangedRevision: 867363 $
-# $LastChangedDate: 2007-10-19 04:17:06 -0400 (Fri, 19 Oct 2007) $
+# $LastChangedDate: 2007-10-19 03:17:06 -0500 (Fri, 19 Oct 2007) $
 # $LastChangedBy: aogier $
 
 import os

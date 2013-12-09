@@ -32,7 +32,7 @@ find's locate utility to make it easier to find files.
 
 $HeadURL: https://svn.apache.org/repos/asf/subversion/branches/1.8.x/contrib/client-side/svn_export_empty_files.py $
 $LastChangedRevision: 868596 $
-$LastChangedDate: 2007-12-17 17:48:44 -0500 (Mon, 17 Dec 2007) $
+$LastChangedDate: 2007-12-17 16:48:44 -0600 (Mon, 17 Dec 2007) $
 $LastChangedBy: epg $
 """
 
